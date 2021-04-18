@@ -1,14 +1,14 @@
 @font-face{
     font-family: lora;
-    src: url(./fonts/lora/lora-bold-webfont.ttf);
+    src: url(./lora-bold-webfont.ttf);
 }
 @font-face{
     font-family: poppins;
-    src: url(./fonts/poppins/poppins-bold-webfont.ttf);
+    src: url(./poppins-bold-webfont.ttf);
 }
 @font-face{
     font-family: skra;
-    src: url(./fonts/SkraGritty-Regular.ttf);
+    src: url(./SkraGritty-Regular.ttf);
 }
 
 body{
